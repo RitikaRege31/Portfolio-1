@@ -19,8 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I am currently persuing my BTech(2021-2025) form IIT Guwahati🎓 
               <br />
               <br />I am fluent in classics like
               <i>
@@ -54,7 +53,7 @@ function Home2() {
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
+            <img src="https://i.ibb.co/pWNqJ3t/iitg-logo.png" alt="iitg-logo"/>
             </Tilt>
           </Col>
         </Row>
@@ -67,7 +66,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/RitikaRege31"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
